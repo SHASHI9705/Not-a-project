@@ -1,0 +1,15 @@
+body{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1,.box2{
+    height: 200px;
+    width: 200px;
+    margin: 10rem;
+    border: 5px solid black;
+    box-shadow: 0 0 4px blue;
+    cursor: pointer;
+}
